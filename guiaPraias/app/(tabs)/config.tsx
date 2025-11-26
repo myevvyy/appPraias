@@ -82,7 +82,7 @@ export default function ConfigScreen() {
                 <View style={styles.modalOverlay}>
                     {/* Caixa de conteúdo do modal */}
                     <View style={styles.modalContent}>
-                        <Text style={styles.modalText}>Desenvolvido por: Aluno</Text>
+                        <Text style={styles.modalText}>Desenvolvido por: Evelyn Aquiles Silva de França</Text>
                         <TouchableOpacity
 
                             style={styles.modalCloseButton}
